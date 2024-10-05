@@ -8,5 +8,3 @@
 - 🌱 &nbsp; 既然已经来了，请不要吝啬你手里的Star。
 - ✍️ &nbsp; Fork到自己的仓库，否则你可能会失去它。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubu-space)
