@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 
-- 🔭 &nbsp; Hello，i am bubu。
+- 🔭 &nbsp; Hello，bubu。
 - 🤔 &nbsp; Welcome to my Github。
